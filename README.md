@@ -40,10 +40,9 @@ A brief description of the project. State what the project does, its purpose, an
 
 1. Clone the repository to your local system:
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
+   git clone https:[//github.com/yourusername/your-repository-name.git](https://github.com/scarletspink/cnn-for-image-classification/tree/main)
 
-   my dataset aand mediun postlink
-   Dataset: [
-](https://drive.google.com/file/d/12ForGyqUdfTqGPzyXGpLAocz-Mtoa0BL/view?usp=drive_link)
+  
+Dataset: (https://drive.google.com/file/d/12ForGyqUdfTqGPzyXGpLAocz-Mtoa0BL/view?usp=drive_link)
 
 Median postlink: https://medium.com/@snova_74295/a-step-by-step-guide-to-building-an-image-classifier-with-convolutional-neural-networks-cnns-fded61f95d0f
